@@ -14,8 +14,8 @@ This project is a simple weather API built using [NestJS](https://nestjs.com/) t
 1) Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/weather-api-nestjs.git
-   cd weather-api-nestjs
+   git clone https://github.com/ouroboroser/weather-app.git
+   cd ./weather-app
 
 2) Install dependencies:
 
